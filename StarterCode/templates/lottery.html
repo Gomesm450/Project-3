@@ -45,7 +45,7 @@
                             </select>
 
                             <label id="fill2" for="fill">Enter a Zip Code</label>
-                            <input class="form-control" id="datetime" type="text" placeholder="1/11/2011">
+                            <input class="form-control" id="datetime" type="text">
                       </li>
                     </ul>
                   </div>
@@ -57,31 +57,36 @@
         </div>
         <div class="col-md-10">
           <div id="table-area" class="">
-            <table id="ufo-table" class="table table-striped">
-              <thead>
-                <tr class="active">
-                  <th class="table-head">Business</th>
-                  <th class="table-head">Zip Code</th>
-                  <th class="table-head">City</th>
-                  <th class="table-head">Instant Sales</th>
-                  <th class="table-head">Online Sales</th>
-                  <th class="table-head">Total Sales</th>
-                </tr>
-              </thead>
-              <tbody id="tblMain">
-                <tr></tr>
-               
-      
-          
-              </tbody>
-            </table>
+            <table id="lottery" style="width:100%">
+              <tr>
+                  <th>Business</th>
+                  <th>Address</th>
+                  <th>City</th>
+                  <th>Zip</th>
+                  <th>Instant Sales</th>
+                  <th>Online Sales</th>
+                  <th>Total Sales</th>
+              </tr>
+              {% for row in result %}
+              <tr>
+                  <td> {{ row.Business_Name }}</td>
+                  <td> {{ row.Address }}</td>
+                  <td> {{ row.City }}</td>
+                  <td style="padding:0 15px 0 15px;"> {{ row.Zip }}</td>
+                  <td style="padding:0 15px 0 15px;"> {{ row.Instant_Sales }}</td>
+                  <td style="padding:0 15px 0 15px;"> {{ row.Online_Sales }}</td>
+                  <td style="padding:0 15px 0 15px;"> {{ row.Total_Sales }}</td>
+                  
+              </tr>
+              {% endfor %}
+          </table>
           </div>
         </div>
       </div>
     </div>
   </div>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
-  <script src="static/js/data.js"></script>
+  <!-- <script src="static/js/data.js"></script> -->
   <script src="static/js/app.js"></script>
   <script language="javascript">
 

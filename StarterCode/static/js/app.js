@@ -28,12 +28,13 @@ data.forEach((tableData) => {
     // Fill the x and y arrays as a function of the selected dataset
     switch (dataset) {
     case "dataset1":
-    input_date.on("change", function() {
+    var svg = d3.select('#fill2').text("Enter a Zip Code");
+      var col= d3.select('#datetime');
+      input_date.on("change", function() {
         var newText = d3.event.target.value;
         button.on("click", function() {
-          d3.event.preventDefault()
-            var dates_filtered = tableData.filter(function (a) { return 
-              ; });
+          d3.event.preventDefault();
+            var dates_filtered = tableData.filter(function (a) { return a.datetime === newText; });
             console.log(dates_filtered);
             tbody.selectAll('tr').remove();
             dates_filtered.forEach((tableData) => {
@@ -52,7 +53,7 @@ data.forEach((tableData) => {
 
     case "dataset2":
       var svg = d3.select('#fill2').text("Enter a city");
-      var col= d3.select('#datetime').attr('placeholder','benton');
+      var col= d3.select('#datetime');
       input_date.on("change", function() {
         var newText = d3.event.target.value;
         button.on("click", function() {
@@ -75,8 +76,8 @@ data.forEach((tableData) => {
       
       break;
     case "dataset3":
-    var svg = d3.select('#fill2').text("Enter a state");
-    var col= d3.select('#datetime').attr('placeholder','ar');
+    var svg = d3.select('#fill2').text("Enter a Business");
+    var col= d3.select('#datetime');
     input_date.on("change", function() {
       var newText = d3.event.target.value;
       button.on("click", function() {
@@ -98,61 +99,62 @@ data.forEach((tableData) => {
     });
     
     break;
-    case "dataset4":
-    var svg = d3.select('#fill2').text("Enter a country");
-    var col= d3.select('#datetime').attr('placeholder','us');
-    input_date.on("change", function() {
-      var newText = d3.event.target.value;
-      button.on("click", function() {
-          d3.event.preventDefault();
-          var dates_filtered = tableData.filter(function (a) { return a.country === newText; });
-          console.log(dates_filtered);
-          tbody.selectAll('tr').remove();
-          dates_filtered.forEach((tableData) => {
-              var row = tbody.append("tr").attr("class", "active");
-              // tr.setAttribute("class", "active");
-              Object.entries(tableData).forEach(([key, value]) => {
-                var cell = row.append("td");
-                cell.text(value);
+    // case "dataset4":
+    // var svg = d3.select('#fill2').text("Enter a country");
+    // var col= d3.select('#datetime');
+    // input_date.on("change", function() {
+    //   var newText = d3.event.target.value;
+    //   button.on("click", function() {
+    //       d3.event.preventDefault();
+    //       var dates_filtered = tableData.filter(function (a) { return a.country === newText; });
+    //       console.log(dates_filtered);
+    //       tbody.selectAll('tr').remove();
+    //       dates_filtered.forEach((tableData) => {
+    //           var row = tbody.append("tr").attr("class", "active");
+    //           // tr.setAttribute("class", "active");
+    //           Object.entries(tableData).forEach(([key, value]) => {
+    //             var cell = row.append("td");
+    //             cell.text(value);
           
-              });
-            });
+    //           });
+    //         });
   
-      });
-    });
+    //   });
+    // });
     
-    break;
-    case "dataset5":
-    var svg = d3.select('#fill2').text("Enter a shape");
-    var col= d3.select('#datetime').attr('placeholder','circle');
-    input_date.on("change", function() {
-      var newText = d3.event.target.value;
-      button.on("click", function() {
-          d3.event.preventDefault();
-          var dates_filtered = tableData.filter(function (a) { return a.shape === newText; });
-          console.log(dates_filtered);
-          tbody.selectAll('tr').remove();
-          dates_filtered.forEach((tableData) => {
-              var row = tbody.append("tr").attr("class", "active");
-              // tr.setAttribute("class", "active");
-              Object.entries(tableData).forEach(([key, value]) => {
-                var cell = row.append("td");
-                cell.text(value);
+    // break;
+    // case "dataset5":
+    // var svg = d3.select('#fill2').text("Enter a shape");
+    // var col= d3.select('#datetime');
+    // input_date.on("change", function() {
+    //   var newText = d3.event.target.value;
+    //   button.on("click", function() {
+    //       d3.event.preventDefault();
+    //       var dates_filtered = tableData.filter(function (a) { return a.shape === newText; });
+    //       console.log(dates_filtered);
+    //       tbody.selectAll('tr').remove();
+    //       dates_filtered.forEach((tableData) => {
+    //           var row = tbody.append("tr").attr("class", "active");
+    //           // tr.setAttribute("class", "active");
+    //           Object.entries(tableData).forEach(([key, value]) => {
+    //             var cell = row.append("td");
+    //             cell.text(value);
           
-              });
-            });
+    //           });
+    //         });
   
-      });
-    });
+    //   });
+    // });
     
     
-    break;
+    // break;
     
-    default: d3.event.preventDefault();
+    // default: d3.event.preventDefault();
       
     }};
   
-
+    getData(tableData);
+    d3.select('#selDataset').dispatch("change");
   
 
 

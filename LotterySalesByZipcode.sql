@@ -1,5 +1,7 @@
 CREATE DATABASE `lottery` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */;
 
+use lottery;
+
 CREATE TABLE `lotterysalesbyzip` (
   `Business_Name` varchar(500) DEFAULT NULL,
   `Address` varchar(500) DEFAULT NULL,
@@ -11,12 +13,13 @@ CREATE TABLE `lotterysalesbyzip` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 
-LOAD DATA INFILE 'C:\Users\Leanne\Desktop\Project-3\LotterySales2013.csv'  /*Change to your directory*/
+LOAD DATA INFILE 'C:\Users\gomes\Desktop\Project-3\LotterySales2013.csv'  /*Change to your directory*/
 INTO TABLE lotterysalesbyzip 
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
+
 
 /*Optional syntax below depending on your preference to insert records into the table*/
 /*
