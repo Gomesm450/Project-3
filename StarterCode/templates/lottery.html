@@ -45,11 +45,27 @@
                             </select>
 
                             <label id="fill2" for="fill">Enter a Zip Code</label>
-                            <input class="form-control" id="datetime" type="text">
+                           </form>
+                           <form action = "http://localhost:5000/login" method = "post">
+                            <p>Enter Zip:</p>
+                            <p><input type = "text" name = "nm" /></p>
+                            <p><input type = "submit" value = "submit" /></p>
+                         </form>
+                         <form action = "http://localhost:5000/city" method = "post">
+                          <p>Enter City:</p>
+                          <p><input type = "text" name = "nm" /></p>
+                          <p><input type = "submit" value = "submit" /></p>
+                       </form>
+                       <form action = "http://localhost:5000/biz" method = "post">
+                        <p>Enter Business:</p>
+                        <p><input type = "text" name = "nm" /></p>
+                        <p><input type = "submit" value = "submit" /></p>
+                     </form>
                       </li>
                     </ul>
                   </div>
-                  <button id="filter-btn" type="submit" class="btn btn-default">Filter Table</button>
+                  <!-- <button id="filter-btn" type="submit" class="btn btn-default" href= >Filter zip</button> -->
+                  <!-- <p><a class="btn btn-primary btn-lg" href="/zip" role="button">Find An Awesome Deal!</a></p> -->
                 </form>
               </div>
             </div>
