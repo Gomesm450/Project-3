@@ -1,0 +1,1568 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+<<<<<<< HEAD
+       "type": "Point",
+       "coordinates":  [ -81.86707,41.36706 ]
+    },
+    "properties": {
+    "Zip":44017,
+    "city":"BEREA",
+    "total_income":"472636000",
+    "total sales":"$3,761,756.00 ",
+    "average sales":"$179,131.24 ",
+    "total cashed":"$1,926,332.50 ",
+    "average cash":"$91,730.12 ",
+    "cashed rate":"51.20%"
+=======
+       "type": "Polygon",
+       "coordinates":  [-81.86707,41.36706]
+
+
+    },
+    "properties": {
+    "Zip":44017,
+    "businesses":null,
+    "total_sales":3761756,
+    "average_sales":179131.24,
+    "total_cashed":1926332.5,
+    "average_cash":91730.12,
+    "cashed_rate":0.51
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.3933,41.45133 ]
+    },
+    "properties": {
+    "Zip":44022,
+    "city":"CHAGRIN FALLS",
+    "total_income":"1748883000",
+    "total sales":"$274,498.00 ",
+    "average sales":"$91,499.33 ",
+    "total cashed":"$113,025.50 ",
+    "average cash":"$37,675.17 ",
+    "cashed rate":"41.20%"
+=======
+       "coordinates":  [ -81.39,41.45 ]
+    },
+    "properties": {
+    "Zip":44022,
+    "businesses":null,
+    "total_sales":274498,
+    "average_sales":91499.33,
+    "total_cashed":113025.5,
+    "average_cash":37675.17,
+    "cashed_rate":0.41
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.4155,41.53421 ]
+    },
+    "properties": {
+    "Zip":44040,
+    "city":"GATES MILLS",
+    "total_income":"420328000",
+    "total sales":"$165,038.00 ",
+    "average sales":"$165,038.00 ",
+    "total cashed":"$54,331.50 ",
+    "average cash":"$54,331.50 ",
+    "cashed rate":"32.90%"
+=======
+       "coordinates":  [ -81.42,41.53 ]
+    },
+    "properties": {
+    "Zip":44040,
+    "businesses":null,
+    "total_sales":165038,
+    "average_sales":165038,
+    "total_cashed":54331.5,
+    "average_cash":54331.5,
+    "cashed_rate":0.33
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.92202,41.41615 ]
+    },
+    "properties": {
+    "Zip":44070,
+    "city":"NORTH OLMSTED",
+    "total_income":"906978000",
+    "total sales":"$6,192,729.00 ",
+    "average sales":"$199,765.45 ",
+    "total cashed":"$3,180,700.00 ",
+    "average cash":"$102,603.23 ",
+    "cashed rate":"51.40%"
+=======
+       "coordinates":  [ -81.92,41.42 ]
+    },
+    "properties": {
+    "Zip":44070,
+    "businesses":null,
+    "total_sales":6192729,
+    "average_sales":199765.45,
+    "total_cashed":3180700,
+    "average_cash":102603.23,
+    "cashed_rate":0.51
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.7388,41.47601 ]
+    },
+    "properties": {
+    "Zip":44102,
+    "city":"BROOKLYN",
+    "total_income":"533650000",
+    "total sales":"$6,140,577.50 ",
+    "average sales":"$97,469.48 ",
+    "total cashed":"$3,029,207.00 ",
+    "average cash":"$48,082.65 ",
+    "cashed rate":"49.30%"
+=======
+       "coordinates":  [ -81.74,41.48 ]
+    },
+    "properties": {
+    "Zip":44102,
+    "businesses":null,
+    "total_sales":6140577.5,
+    "average_sales":97469.48,
+    "total_cashed":3029207,
+    "average_cash":48082.65,
+    "cashed_rate":0.49
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.64442,41.52212 ]
+    },
+    "properties": {
+    "Zip":44103,
+    "city":"CLEVELAND",
+    "total_income":"153913000",
+    "total sales":"$7,690,160.00 ",
+    "average sales":"$226,181.18 ",
+    "total cashed":"$3,351,225.00 ",
+    "average cash":"$98,565.44 ",
+    "cashed rate":"43.60%"
+=======
+       "coordinates":  [ -81.64,41.52 ]
+    },
+    "properties": {
+    "Zip":44103,
+    "businesses":34,
+    "total_sales":7690160,
+    "average_sales":226181.18,
+    "total_cashed":3351225,
+    "average_cash":98565.44,
+    "cashed_rate":0.44
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.63099,41.48047 ]
+    },
+    "properties": {
+    "Zip":44104,
+    "city":"CLEVELAND",
+    "total_income":"153786000",
+    "total sales":"$3,991,963.00 ",
+    "average sales":"$166,331.79 ",
+    "total cashed":"$1,685,649.50 ",
+    "average cash":"$70,235.40 ",
+    "cashed rate":"42.20%"
+=======
+       "coordinates":  [ -81.63,41.48 ]
+    },
+    "properties": {
+    "Zip":44104,
+    "businesses":24,
+    "total_sales":3991963,
+    "average_sales":166331.79,
+    "total_cashed":1685649.5,
+    "average_cash":70235.4,
+    "cashed_rate":0.42
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.63338,41.44953 ]
+    },
+    "properties": {
+    "Zip":44105,
+    "city":"CLEVELAND",
+    "total_income":"408957000",
+    "total sales":"$8,759,653.00 ",
+    "average sales":"$190,427.24 ",
+    "total cashed":"$4,007,239.00 ",
+    "average cash":"$87,113.89 ",
+    "cashed rate":"45.70%"
+=======
+       "coordinates":  [ -81.63,41.45 ]
+    },
+    "properties": {
+    "Zip":44105,
+    "businesses":46,
+    "total_sales":8759653,
+    "average_sales":190427.24,
+    "total_cashed":4007239,
+    "average_cash":87113.89,
+    "cashed_rate":0.46
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.60535,41.5067 ]
+    },
+    "properties": {
+    "Zip":44106,
+    "city":"CLEVELAND",
+    "total_income":"578940000",
+    "total sales":"$4,162,664.00 ",
+    "average sales":"$189,212.00 ",
+    "total cashed":"$1,495,756.50 ",
+    "average cash":"$67,988.93 ",
+    "cashed rate":"35.90%"
+=======
+       "coordinates":  [ -81.61,41.51 ]
+    },
+    "properties": {
+    "Zip":44106,
+    "businesses":22,
+    "total_sales":4162664,
+    "average_sales":189212,
+    "total_cashed":1495756.5,
+    "average_cash":67988.93,
+    "cashed_rate":0.36
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.80352,41.48254 ]
+    },
+    "properties": {
+    "Zip":44107,
+    "city":"LAKEWOOD",
+    "total_income":"1383539000",
+    "total sales":"$6,719,000.50 ",
+    "average sales":"$131,745.11 ",
+    "total cashed":"$3,590,139.00 ",
+    "average cash":"$70,394.88 ",
+    "cashed rate":"53.40%"
+=======
+       "coordinates":  [ -81.80,41.48 ]
+    },
+    "properties": {
+    "Zip":44107,
+    "businesses":51,
+    "total_sales":6719000.5,
+    "average_sales":131745.11,
+    "total_cashed":3590139,
+    "average_cash":70394.88,
+    "cashed_rate":0.53
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.60805,41.54536 ]
+    },
+    "properties": {
+    "Zip":44108,
+    "city":"CLEVELAND",
+    "total_income":"366337000",
+    "total sales":"$4,980,246.50 ",
+    "average sales":"$184,453.57 ",
+    "total cashed":"$2,015,054.50 ",
+    "average cash":"$74,631.65 ",
+    "cashed rate":"40.50%"
+=======
+       "coordinates":  [ -81.61,41.55 ]
+    },
+    "properties": {
+    "Zip":44108,
+    "businesses":27,
+    "total_sales":4980246.5,
+    "average_sales":184453.57,
+    "total_cashed":2015054.5,
+    "average_cash":74631.65,
+    "cashed_rate":0.41
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.69578,41.44465 ]
+    },
+    "properties": {
+    "Zip":44109,
+    "city":"CLEVELAND",
+    "total_income":"539914000",
+    "total sales":"$7,668,407.50 ",
+    "average sales":"$127,806.79 ",
+    "total cashed":"$3,755,449.50 ",
+    "average cash":"$62,590.83 ",
+    "cashed rate":"49.00%"
+=======
+       "coordinates":  [ -81.70,41.44 ]
+    },
+    "properties": {
+    "Zip":44109,
+    "businesses":60,
+    "total_sales":7668407.5,
+    "average_sales":127806.79,
+    "total_cashed":3755449.5,
+    "average_cash":62590.83,
+    "cashed_rate":0.49
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.56503,41.56515 ]
+    },
+    "properties": {
+    "Zip":44110,
+    "city":"CLEVELAND",
+    "total_income":"204169000",
+    "total sales":"$4,900,099.50 ",
+    "average sales":"$233,338.07 ",
+    "total cashed":"$2,170,159.00 ",
+    "average cash":"$103,340.90 ",
+    "cashed rate":"44.30%"
+=======
+       "coordinates":  [ -81.57,41.57 ]
+    },
+    "properties": {
+    "Zip":44110,
+    "businesses":21,
+    "total_sales":4900099.5,
+    "average_sales":233338.07,
+    "total_cashed":2170159,
+    "average_cash":103340.9,
+    "cashed_rate":0.44
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.79478,41.45985 ]
+    },
+    "properties": {
+    "Zip":44111,
+    "city":"CLEVELAND",
+    "total_income":"717883000",
+    "total sales":"$9,634,417.00 ",
+    "average sales":"$152,927.25 ",
+    "total cashed":"$5,136,993.50 ",
+    "average cash":"$81,539.58 ",
+    "cashed rate":"53.30%"
+=======
+       "coordinates":  [ -81.79,41.46 ]
+    },
+    "properties": {
+    "Zip":44111,
+    "businesses":63,
+    "total_sales":9634417,
+    "average_sales":152927.25,
+    "total_cashed":5136993.5,
+    "average_cash":81539.58,
+    "cashed_rate":0.53
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.5731,41.53825 ]
+    },
+    "properties": {
+    "Zip":44112,
+    "city":"CLEVELAND",
+    "total_income":"233832000",
+    "total sales":"$6,242,918.50 ",
+    "average sales":"$215,273.05 ",
+    "total cashed":"$2,637,972.00 ",
+    "average cash":"$90,964.55 ",
+    "cashed rate":"42.30%"
+=======
+       "coordinates":  [ -81.57,41.54 ]
+    },
+    "properties": {
+    "Zip":44112,
+    "businesses":29,
+    "total_sales":6242918.5,
+    "average_sales":215273.05,
+    "total_cashed":2637972,
+    "average_cash":90964.55,
+    "cashed_rate":0.42
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.69441,41.4858 ]
+    },
+    "properties": {
+    "Zip":44113,
+    "city":"CLEVELAND",
+    "total_income":"429954000",
+    "total sales":"$4,887,450.00 ",
+    "average sales":"$195,498.00 ",
+    "total cashed":"$2,348,168.50 ",
+    "average cash":"$93,926.74 ",
+    "cashed rate":"48.00%"
+=======
+       "coordinates":  [ -81.69,41.49 ]
+    },
+    "properties": {
+    "Zip":44113,
+    "businesses":25,
+    "total_sales":4887450,
+    "average_sales":195498,
+    "total_cashed":2348168.5,
+    "average_cash":93926.74,
+    "cashed_rate":0.48
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.67519,41.51766 ]
+    },
+    "properties": {
+    "Zip":44114,
+    "city":"CLEVELAND",
+    "total_income":"493685000",
+    "total sales":"$3,538,252.50 ",
+    "average sales":"$131,046.39 ",
+    "total cashed":"$1,698,118.00 ",
+    "average cash":"$62,893.26 ",
+    "cashed rate":"48.00%"
+=======
+       "coordinates":  [ -81.68,41.52 ]
+    },
+    "properties": {
+    "Zip":44114,
+    "businesses":27,
+    "total_sales":3538252.5,
+    "average_sales":131046.39,
+    "total_cashed":1698118,
+    "average_cash":62893.26,
+    "cashed_rate":0.48
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.67769,41.48759 ]
+    },
+    "properties": {
+    "Zip":44115,
+    "city":"CLEVELAND",
+    "total_income":"121854000",
+    "total sales":"$1,883,383.50 ",
+    "average sales":"$94,169.18 ",
+    "total cashed":"$764,867.00 ",
+    "average cash":"$38,243.35 ",
+    "cashed rate":"40.60%"
+=======
+       "coordinates":  [ -81.68,41.49 ]
+    },
+    "properties": {
+    "Zip":44115,
+    "businesses":20,
+    "total_sales":1883383.5,
+    "average_sales":94169.18,
+    "total_cashed":764867,
+    "average_cash":38243.35,
+    "cashed_rate":0.41
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.84886,41.46999 ]
+    },
+    "properties": {
+    "Zip":44116,
+    "city":"ROCKY RIVER",
+    "total_income":"1103429000",
+    "total sales":"$2,265,245.50 ",
+    "average sales":"$141,577.84 ",
+    "total cashed":"$1,197,242.50 ",
+    "average cash":"$74,827.66 ",
+    "cashed rate":"52.90%"
+=======
+       "coordinates":  [ -81.85,41.47 ]
+    },
+    "properties": {
+    "Zip":44116,
+    "businesses":16,
+    "total_sales":2265245.5,
+    "average_sales":141577.84,
+    "total_cashed":1197242.5,
+    "average_cash":74827.66,
+    "cashed_rate":0.53
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.5265,41.56996 ]
+    },
+    "properties": {
+    "Zip":44117,
+    "city":"EUCLID",
+    "total_income":"168802000",
+    "total sales":"$1,877,329.00 ",
+    "average sales":"$234,666.13 ",
+    "total cashed":"$948,691.50 ",
+    "average cash":"$118,586.44 ",
+    "cashed rate":"50.50%"
+=======
+       "coordinates":  [ -81.53,41.57 ]
+    },
+    "properties": {
+    "Zip":44117,
+    "businesses":8,
+    "total_sales":1877329,
+    "average_sales":234666.13,
+    "total_cashed":948691.5,
+    "average_cash":118586.44,
+    "cashed_rate":0.51
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.55413,41.50439 ]
+    },
+    "properties": {
+    "Zip":44118,
+    "city":"CLEVELAND",
+    "total_income":"1265546000",
+    "total sales":"$3,601,976.00 ",
+    "average sales":"$225,123.50 ",
+    "total cashed":"$1,480,683.50 ",
+    "average cash":"$92,542.72 ",
+    "cashed rate":"41.10%"
+=======
+       "coordinates":  [ -81.55,41.50 ]
+    },
+    "properties": {
+    "Zip":44118,
+    "businesses":16,
+    "total_sales":3601976,
+    "average_sales":225123.5,
+    "total_cashed":1480683.5,
+    "average_cash":92542.72,
+    "cashed_rate":0.41
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.54587,41.58652 ]
+    },
+    "properties": {
+    "Zip":44119,
+    "city":"CLEVELAND",
+    "total_income":"246095000",
+    "total sales":"$4,254,538.50 ",
+    "average sales":"$202,597.07 ",
+    "total cashed":"$1,896,718.00 ",
+    "average cash":"$90,319.90 ",
+    "cashed rate":"44.60%"
+=======
+       "coordinates":  [ -81.55,41.59 ]
+    },
+    "properties": {
+    "Zip":44119,
+    "businesses":21,
+    "total_sales":4254538.5,
+    "average_sales":202597.07,
+    "total_cashed":1896718,
+    "average_cash":90319.9,
+    "cashed_rate":0.45
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.5765,41.47368 ]
+    },
+    "properties": {
+    "Zip":44120,
+    "city":"CLEVELAND",
+    "total_income":" 944,838,000.00 ",
+    "total sales":"$8,554,981.00 ",
+    "average sales":"$285,166.03 ",
+    "total cashed":"$3,498,321.50 ",
+    "average cash":"$116,610.72 ",
+    "cashed rate":"40.90%"
+=======
+       "coordinates":  [ -81.58,41.47 ]
+    },
+    "properties": {
+    "Zip":44120,
+    "businesses":30,
+    "total_sales":8554981,
+    "average_sales":285166.03,
+    "total_cashed":3498321.5,
+    "average_cash":116610.72,
+    "cashed_rate":0.41
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.53241,41.52754 ]
+    },
+    "properties": {
+    "Zip":44121,
+    "city":"CLEVELAND",
+    "total_income":"745684000",
+    "total sales":"$5,930,731.50 ",
+    "average sales":"$282,415.79 ",
+    "total cashed":"$2,752,144.50 ",
+    "average cash":"$131,054.50 ",
+    "cashed rate":"46.40%"
+=======
+       "coordinates":  [ -81.53,41.53 ]
+    },
+    "properties": {
+    "Zip":44121,
+    "businesses":21,
+    "total_sales":5930731.5,
+    "average_sales":282415.79,
+    "total_cashed":2752144.5,
+    "average_cash":131054.5,
+    "cashed_rate":0.46
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.5119,41.47952 ]
+    },
+    "properties": {
+    "Zip":44122,
+    "city":"BEACHWOOD",
+    "total_income":"1965446000",
+    "total sales":"$2,969,198.00 ",
+    "average sales":"$228,399.85 ",
+    "total cashed":"$1,134,695.50 ",
+    "average cash":"$87,284.27 ",
+    "cashed rate":"38.20%"
+=======
+       "coordinates":  [ -81.51,41.48 ]
+    },
+    "properties": {
+    "Zip":44122,
+    "businesses":13,
+    "total_sales":2969198,
+    "average_sales":228399.85,
+    "total_cashed":1134695.5,
+    "average_cash":87284.27,
+    "cashed_rate":0.38
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.52611,41.60364 ]
+    },
+    "properties": {
+    "Zip":44123,
+    "city":"CLEVELAND",
+    "total_income":"310848000",
+    "total sales":"$2,848,552.00 ",
+    "average sales":"$178,034.50 ",
+    "total cashed":"$1,345,287.00 ",
+    "average cash":"$84,080.44 ",
+    "cashed rate":"47.20%"
+=======
+       "coordinates":  [ -81.53,41.60 ]
+    },
+    "properties": {
+    "Zip":44123,
+    "businesses":16,
+    "total_sales":2848552,
+    "average_sales":178034.5,
+    "total_cashed":1345287,
+    "average_cash":84080.44,
+    "cashed_rate":0.47
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.47174,41.49679 ]
+    },
+    "properties": {
+    "Zip":44124,
+    "city":"CLEVELAND",
+    "total_income":"1777967000",
+    "total sales":"$4,436,781.50 ",
+    "average sales":"$192,903.54 ",
+    "total cashed":"$2,180,128.50 ",
+    "average cash":"$94,788.20 ",
+    "cashed rate":"49.10%"
+=======
+       "coordinates":  [ -81.47,41.50 ]
+    },
+    "properties": {
+    "Zip":44124,
+    "businesses":23,
+    "total_sales":4436781.5,
+    "average_sales":192903.54,
+    "total_cashed":2180128.5,
+    "average_cash":94788.2,
+    "cashed_rate":0.49
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.633,41.39941 ]
+    },
+    "properties": {
+    "Zip":44125,
+    "city":"GARFIELD HEIGHTS",
+    "total_income":"534092000",
+    "total sales":"$6,154,178.00 ",
+    "average sales":"$219,792.07 ",
+    "total cashed":"$3,159,770.00 ",
+    "average cash":"$112,848.93 ",
+    "cashed rate":"51.30%"
+=======
+       "coordinates":  [ -81.63,41.40 ]
+    },
+    "properties": {
+    "Zip":44125,
+    "businesses":28,
+    "total_sales":6154178,
+    "average_sales":219792.07,
+    "total_cashed":3159770,
+    "average_cash":112848.93,
+    "cashed_rate":0.51
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.8483,41.44105 ]
+    },
+    "properties": {
+    "Zip":44126,
+    "city":"FAIRVIEW PARK",
+    "total_income":"543787000",
+    "total sales":"$2,478,103.00 ",
+    "average sales":"$165,206.87 ",
+    "total cashed":"$1,301,369.00 ",
+    "average cash":"$86,757.93 ",
+    "cashed rate":"52.50%"
+=======
+       "coordinates":  [ -81.85,41.44 ]
+    },
+    "properties": {
+    "Zip":44126,
+    "businesses":15,
+    "total_sales":2478103,
+    "average_sales":165206.87,
+    "total_cashed":1301369,
+    "average_cash":86757.93,
+    "cashed_rate":0.53
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.64734,41.47386 ]
+    },
+    "properties": {
+    "Zip":44127,
+    "city":"CLEVELAND",
+    "total_income":"41123000",
+    "total sales":"$1,158,761.00 ",
+    "average sales":"$96,563.42 ",
+    "total cashed":"$514,781.00 ",
+    "average cash":"$42,898.42 ",
+    "cashed rate":"44.40%"
+=======
+       "coordinates":  [ -81.65,41.47 ]
+    },
+    "properties": {
+    "Zip":44127,
+    "businesses":12,
+    "total_sales":1158761,
+    "average_sales":96563.42,
+    "total_cashed":514781,
+    "average_cash":42898.42,
+    "cashed_rate":0.44
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.53575,41.43773 ]
+    },
+    "properties": {
+    "Zip":44128,
+    "city":"BEDFORD HTS",
+    "total_income":"430063000",
+    "total sales":"$10,529,904.00 ",
+    "average sales":"$300,854.40 ",
+    "total cashed":"$4,755,340.50 ",
+    "average cash":"$135,866.87 ",
+    "cashed rate":"45.20%"
+=======
+       "coordinates":  [ -81.54,41.44 ]
+    },
+    "properties": {
+    "Zip":44128,
+    "businesses":35,
+    "total_sales":10529904,
+    "average_sales":300854.4,
+    "total_cashed":4755340.5,
+    "average_cash":135866.87,
+    "cashed_rate":0.45
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.7352,41.38689 ]
+    },
+    "properties": {
+    "Zip":44129,
+    "city":"PARMA",
+    "total_income":"626895000",
+    "total sales":"$5,755,941.50 ",
+    "average sales":"$191,864.72 ",
+    "total cashed":"$2,968,154.00 ",
+    "average cash":"$98,938.47 ",
+    "cashed rate":"51.60%"
+=======
+       "coordinates":  [ -81.74,41.39 ]
+    },
+    "properties": {
+    "Zip":44129,
+    "businesses":30,
+    "total_sales":5755941.5,
+    "average_sales":191864.72,
+    "total_cashed":2968154,
+    "average_cash":98938.47,
+    "cashed_rate":0.52
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.79471,41.38453 ]
+    },
+    "properties": {
+    "Zip":44130,
+    "city":"BROOKLYN",
+    "total_income":"1272284000",
+    "total sales":"$13,668,184.00 ",
+    "average sales":"$213,565.38 ",
+    "total cashed":"$7,075,145.50 ",
+    "average cash":"$110,549.15 ",
+    "cashed rate":"51.80%"
+=======
+       "coordinates":  [ -81.79,41.38 ]
+    },
+    "properties": {
+    "Zip":44130,
+    "businesses":64,
+    "total_sales":13668184,
+    "average_sales":213565.38,
+    "total_cashed":7075145.5,
+    "average_cash":110549.15,
+    "cashed_rate":0.52
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.64142,41.39167 ]
+    },
+    "properties": {
+    "Zip":44131,
+    "city":"INDEPENDENCE",
+    "total_income":"761193000",
+    "total sales":"$3,768,093.50 ",
+    "average sales":"$235,505.84 ",
+    "total cashed":"$1,836,804.50 ",
+    "average cash":"$114,800.28 ",
+    "cashed rate":"48.70%"
+=======
+       "coordinates":  [ -81.64,41.39 ]
+    },
+    "properties": {
+    "Zip":44131,
+    "businesses":16,
+    "total_sales":3768093.5,
+    "average_sales":235505.84,
+    "total_cashed":1836804.5,
+    "average_cash":114800.28,
+    "cashed_rate":0.49
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.50097,41.60823 ]
+    },
+    "properties": {
+    "Zip":44132,
+    "city":"CLEVELAND",
+    "total_income":"254821000",
+    "total sales":"$2,517,001.50 ",
+    "average sales":"$251,700.15 ",
+    "total cashed":"$1,113,647.50 ",
+    "average cash":"$111,364.75 ",
+    "cashed rate":"44.20%"
+=======
+       "coordinates":  [ -81.50,41.61 ]
+    },
+    "properties": {
+    "Zip":44132,
+    "businesses":10,
+    "total_sales":2517001.5,
+    "average_sales":251700.15,
+    "total_cashed":1113647.5,
+    "average_cash":111364.75,
+    "cashed_rate":0.44
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.7435,41.31463 ]
+    },
+    "properties": {
+    "Zip":44133,
+    "city":"N ROYALTON",
+    "total_income":"1080880000",
+    "total sales":"$4,172,462.00 ",
+    "average sales":"$160,479.31 ",
+    "total cashed":"$2,227,358.50 ",
+    "average cash":"$85,667.63 ",
+    "cashed rate":"53.40%"
+=======
+       "coordinates":  [ -81.74,41.31 ]
+    },
+    "properties": {
+    "Zip":44133,
+    "businesses":26,
+    "total_sales":4172462,
+    "average_sales":160479.31,
+    "total_cashed":2227358.5,
+    "average_cash":85667.63,
+    "cashed_rate":0.53
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.7099,41.38583 ]
+    },
+    "properties": {
+    "Zip":44134,
+    "city":"CLEVELAND",
+    "total_income":"871634000",
+    "total sales":"$10,609,156.50 ",
+    "average sales":"$189,449.22 ",
+    "total cashed":"$5,813,117.50 ",
+    "average cash":"$103,805.67 ",
+    "cashed rate":"54.80%"
+=======
+       "coordinates":  [ -81.71,41.39 ]
+    },
+    "properties": {
+    "Zip":44134,
+    "businesses":56,
+    "total_sales":10609156.5,
+    "average_sales":189449.22,
+    "total_cashed":5813117.5,
+    "average_cash":103805.67,
+    "cashed_rate":0.55
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.8168,41.42386 ]
+    },
+    "properties": {
+    "Zip":44135,
+    "city":"CLEVELAND",
+    "total_income":"446486000",
+    "total sales":"$5,604,754.00 ",
+    "average sales":"$164,845.71 ",
+    "total cashed":"$2,782,156.00 ",
+    "average cash":"$81,828.12 ",
+    "cashed rate":"49.60%"
+=======
+       "coordinates":  [ -81.82,41.42 ]
+    },
+    "properties": {
+    "Zip":44135,
+    "businesses":34,
+    "total_sales":5604754,
+    "average_sales":164845.71,
+    "total_cashed":2782156,
+    "average_cash":81828.12,
+    "cashed_rate":0.5
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.81109,41.31316 ]
+    },
+    "properties": {
+    "Zip":44136,
+    "city":"STRONGSVILLE",
+    "total_income":"933346000",
+    "total sales":"$3,437,865.50 ",
+    "average sales":"$156,266.61 ",
+    "total cashed":"$1,679,833.50 ",
+    "average cash":"$76,356.07 ",
+    "cashed rate":"48.90%"
+=======
+       "coordinates":  [ -81.81,41.31 ]
+    },
+    "properties": {
+    "Zip":44136,
+    "businesses":22,
+    "total_sales":3437865.5,
+    "average_sales":156266.61,
+    "total_cashed":1679833.5,
+    "average_cash":76356.07,
+    "cashed_rate":0.49
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.55666,41.40479 ]
+    },
+    "properties": {
+    "Zip":44137,
+    "city":"CLEVELAND",
+    "total_income":"386468000",
+    "total sales":"$8,071,789.50 ",
+    "average sales":"$237,405.57 ",
+    "total cashed":"$3,811,994.50 ",
+    "average cash":"$112,117.49 ",
+    "cashed rate":"47.20%"
+=======
+       "coordinates":  [ -81.56,41.40 ]
+    },
+    "properties": {
+    "Zip":44137,
+    "businesses":34,
+    "total_sales":8071789.5,
+    "average_sales":237405.57,
+    "total_cashed":3811994.5,
+    "average_cash":112117.49,
+    "cashed_rate":0.47
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.93068,41.37885 ]
+    },
+    "properties": {
+    "Zip":44138,
+    "city":"OLMSTED FALLS",
+    "total_income":"716125000",
+    "total sales":"$1,915,661.00 ",
+    "average sales":"$136,832.93 ",
+    "total cashed":"$1,022,122.00 ",
+    "average cash":"$73,008.71 ",
+    "cashed rate":"53.40%"
+=======
+       "coordinates":  [ -81.93,41.38 ]
+    },
+    "properties": {
+    "Zip":44138,
+    "businesses":14,
+    "total_sales":1915661,
+    "average_sales":136832.93,
+    "total_cashed":1022122,
+    "average_cash":73008.71,
+    "cashed_rate":0.53
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.44025,41.38648 ]
+    },
+    "properties": {
+    "Zip":44139,
+    "city":"SOLON",
+    "total_income":"1363803000",
+    "total sales":"$3,101,385.00 ",
+    "average sales":"$221,527.50 ",
+    "total cashed":"$1,477,748.00 ",
+    "average cash":"$105,553.43 ",
+    "cashed rate":"47.60%"
+=======
+       "coordinates":  [ -81.44,41.39 ]
+    },
+    "properties": {
+    "Zip":44139,
+    "businesses":14,
+    "total_sales":3101385,
+    "average_sales":221527.5,
+    "total_cashed":1477748,
+    "average_cash":105553.43,
+    "cashed_rate":0.48
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.92146,41.49097 ]
+    },
+    "properties": {
+    "Zip":44140,
+    "city":"BAY VILLAGE",
+    "total_income":"903251000",
+    "total sales":"$419,399.00 ",
+    "average sales":"$83,879.80 ",
+    "total cashed":"$158,616.00 ",
+    "average cash":"$31,723.20 ",
+    "cashed rate":"37.80%"
+=======
+       "coordinates":  [ -81.92,41.49 ]
+    },
+    "properties": {
+    "Zip":44140,
+    "businesses":5,
+    "total_sales":419399,
+    "average_sales":83879.8,
+    "total_cashed":158616,
+    "average_cash":31723.2,
+    "cashed_rate":0.38
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.61507,41.30627 ]
+    },
+    "properties": {
+    "Zip":44141,
+    "city":"BRECKSVILLE",
+    "total_income":"821711000",
+    "total sales":"$804,167.50 ",
+    "average sales":"$160,833.50 ",
+    "total cashed":"$347,398.00 ",
+    "average cash":"$69,479.60 ",
+    "cashed rate":"43.20%"
+=======
+       "coordinates":  [ -81.62,41.31 ]
+    },
+    "properties": {
+    "Zip":44141,
+    "businesses":5,
+    "total_sales":804167.5,
+    "average_sales":160833.5,
+    "total_cashed":347398,
+    "average_cash":69479.6,
+    "cashed_rate":0.43
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.83385,41.40252 ]
+    },
+    "properties": {
+    "Zip":44142,
+    "city":"BROOK PARK",
+    "total_income":"420545000",
+    "total sales":"$6,144,061.00 ",
+    "average sales":"$267,133.09 ",
+    "total cashed":"$2,959,303.00 ",
+    "average cash":"$128,665.35 ",
+    "cashed rate":"48.20%"
+=======
+       "coordinates":  [ -81.83,41.40 ]
+    },
+    "properties": {
+    "Zip":44142,
+    "businesses":23,
+    "total_sales":6144061,
+    "average_sales":267133.09,
+    "total_cashed":2959303,
+    "average_cash":128665.35,
+    "cashed_rate":0.48
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.47741,41.55886 ]
+    },
+    "properties": {
+    "Zip":44143,
+    "city":"CLEVELAND",
+    "total_income":"956323000",
+    "total sales":"$4,897,620.00 ",
+    "average sales":"$326,508.00 ",
+    "total cashed":"$2,219,177.50 ",
+    "average cash":"$147,945.17 ",
+    "cashed rate":"45.30%"
+=======
+       "coordinates":  [ -81.48,41.56 ]
+    },
+    "properties": {
+    "Zip":44143,
+    "businesses":15,
+    "total_sales":4897620,
+    "average_sales":326508,
+    "total_cashed":2219177.5,
+    "average_cash":147945.17,
+    "cashed_rate":0.45
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.74119,41.4386 ]
+    },
+    "properties": {
+    "Zip":44144,
+    "city":"BROOKLYN",
+    "total_income":"434020000",
+    "total sales":"$5,853,976.50 ",
+    "average sales":"$243,915.69 ",
+    "total cashed":"$3,135,360.50 ",
+    "average cash":"$130,640.02 ",
+    "cashed rate":"53.60%"
+=======
+       "coordinates":  [ -81.74,41.44 ]
+    },
+    "properties": {
+    "Zip":44144,
+    "businesses":24,
+    "total_sales":5853976.5,
+    "average_sales":243915.69,
+    "total_cashed":3135360.5,
+    "average_cash":130640.02,
+    "cashed_rate":0.54
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.93125,41.44458 ]
+    },
+    "properties": {
+    "Zip":44145,
+    "city":"WESTLAKE",
+    "total_income":"1795749000",
+    "total sales":"$4,250,697.50 ",
+    "average sales":"$132,834.30 ",
+    "total cashed":"$2,044,307.00 ",
+    "average cash":"$63,884.59 ",
+    "cashed rate":"48.10%"
+=======
+       "coordinates":  [ -81.93,41.44 ]
+    },
+    "properties": {
+    "Zip":44145,
+    "businesses":32,
+    "total_sales":4250697.5,
+    "average_sales":132834.3,
+    "total_cashed":2044307,
+    "average_cash":63884.59,
+    "cashed_rate":0.48
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.53654,41.38921 ]
+    },
+    "properties": {
+    "Zip":44146,
+    "city":"BEDFORD",
+    "total_income":"627861000",
+    "total sales":"$6,937,810.00 ",
+    "average sales":"$192,716.94 ",
+    "total cashed":"$2,833,348.00 ",
+    "average cash":"$78,704.11 ",
+    "cashed rate":"40.80%"
+=======
+       "coordinates":  [ -81.54,41.39 ]
+    },
+    "properties": {
+    "Zip":44146,
+    "businesses":36,
+    "total_sales":6937810,
+    "average_sales":192716.94,
+    "total_cashed":2833348,
+    "average_cash":78704.11,
+    "cashed_rate":0.41
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.67343,41.31409 ]
+    },
+    "properties": {
+    "Zip":44147,
+    "city":"BROADVIEW HEIGHTS",
+    "total_income":"809011000",
+    "total sales":"$1,993,002.50 ",
+    "average sales":"$99,650.13 ",
+    "total cashed":"$905,894.50 ",
+    "average cash":"$45,294.73 ",
+    "cashed rate":"45.50%"
+=======
+       "coordinates":  [ -81.67,41.31 ]
+    },
+    "properties": {
+    "Zip":44147,
+    "businesses":20,
+    "total_sales":1993002.5,
+    "average_sales":99650.13,
+    "total_cashed":905894.5,
+    "average_cash":45294.73,
+    "cashed_rate":0.46
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.84944,41.3129 ]
+    },
+    "properties": {
+    "Zip":44149,
+    "city":"STRONGSVILLE",
+    "total_income":"832271000",
+    "total sales":"$2,092,054.00 ",
+    "average sales":"$174,337.83 ",
+    "total cashed":"$1,057,605.00 ",
+    "average cash":"$88,133.75 ",
+    "cashed rate":"50.60%"
+=======
+       "coordinates":  [ -81.85,41.31 ]
+    },
+    "properties": {
+    "Zip":44149,
+    "businesses":12,
+    "total_sales":2092054,
+    "average_sales":174337.83,
+    "total_cashed":1057605,
+    "average_cash":88133.75,
+    "cashed_rate":0.51
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+<<<<<<< HEAD
+       "coordinates":  [ -81.6956,41.4997 ]
+    },
+    "properties": {
+    "Zip":44199,
+    "city":"CLEVELAND",
+    "total_income":"",
+    "total sales":"$748,573.50 ",
+    "average sales":"$748,573.50 ",
+    "total cashed":"$363,650.00 ",
+    "average cash":"$363,650.00 ",
+    "cashed rate":"48.60%"
+=======
+       "coordinates":  [ -81.70,41.50 ]
+    },
+    "properties": {
+    "Zip":44199,
+    "businesses":1,
+    "total_sales":748573.5,
+    "average_sales":748573.5,
+    "total_cashed":363650,
+    "average_cash":363650,
+    "cashed_rate":0.49
+>>>>>>> 0e854c771a68a73e1976b138cd7fa849271f0524
+    }
+  }
+]
+}
